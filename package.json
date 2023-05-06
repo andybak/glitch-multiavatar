@@ -1,0 +1,19 @@
+{
+  "name": "glitch-multiavatar",
+  "version": "0.1.1",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "fastify": "^4.17.0",
+    "@multiavatar/multiavatar": "^1.0.7"
+  },
+  "engines": {
+    "node": "14.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/glitch-hello-node"
+  },
+  "license": "MIT"
+}
